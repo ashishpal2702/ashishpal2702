@@ -1,6 +1,6 @@
 ![](https://media-exp1.licdn.com/dms/image/C4E16AQH3b3WOuLxXyA/profile-displaybackgroundimage-shrink_350_1400/0?e=1605744000&v=beta&t=76O-rTpf7DYI8QQlmhU_rWIN6fhAUIh-QlVF5az1gUM)
 
-# Daniel Deutsch
+# ASHISH PAL
 
 ## About
 Ashish is Data Scientist, AI ML Coach and consultant. He has worked at Accenture, Siemens Healthineers.  
@@ -28,4 +28,4 @@ I worked with
 
 
 If I helped you with some of my online content feel free to show support:
-<a href="https://www.buymeacoffee.com/createdd" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/ashishpal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
