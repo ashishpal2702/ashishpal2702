@@ -16,15 +16,13 @@ I focus on Machine Learning aspects in Data Science.
 
 I worked with
 - Python (Pandas, Matplotlib, Sklearn, PyTorch, Tensorflow)
-- JavaScript(Typescript, ReactJS, Redux, NodeJS)
-- C# in .NET
+
 
 ## Connect on
 - [LinkedIn](https://www.linkedin.com/in/aashishpal)
 - [Github](https://github.com/ashishpal2702)
 - [Medium](https://medium.com/@Ashish_Pal)
-- [Twitter](https://twitter.com/_createdd)
-- [Instagram](https://www.instagram.com/create.dd/)
+
 
 
 If I helped you with some of my online content feel free to show support:
