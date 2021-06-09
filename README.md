@@ -21,7 +21,7 @@ I worked with
 
 
 ## Connect on
-- [Portfolio] (http://ashishpal2702.github.io)
+- [Portfolio](http://ashishpal2702.github.io)
 - [LinkedIn](https://www.linkedin.com/in/aashishpal)
 - [Github](https://github.com/ashishpal2702)
 - [Medium](https://medium.com/@Ashish_Pal)
