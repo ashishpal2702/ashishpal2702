@@ -3,8 +3,8 @@
 # ASHISH PAL
 
 ## About
-Ashish is Data Scientist, AI ML Coach and consultant. He has worked at Accenture, Siemens Healthineers and currently working at Philips. 
-Data science Mentor and Coach at Upgrad , Great learning and Analytics Vidhya. Founder @pathtoai. 
+Ashish is a Data Scientist, AI ML Coach and consultant. He has worked at Accenture, Siemens Healthineers , Philips and currently working at Twilio. 
+Data science Mentor and Coach at Upgrad , Great learning , Scaler and Analytics Vidhya. Founder @pathtoai. 
 
 His knowledge and interests currently revolve around programming machine learning applications and all its related aspects. To the core, he considers himself a problem solver of complex environments, which is reflected in his various projects.
 
